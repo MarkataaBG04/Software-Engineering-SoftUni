@@ -23,7 +23,7 @@
                 }
                 else if (sleeps >= 10 && sleeps <= 15)
                 {
-                    price = price * 0.75;
+                    price = price * 0.65;
                 }
                 else if (sleeps > 15)
                 {
@@ -46,6 +46,17 @@
                     price = price * 0.80;
                 }
             }
+
+            if (review == "positive")
+            {
+                price = price * 1.25;
+            }
+            else
+            {
+                price = price * 0.90;
+            }
+
+            Console.WriteLine($"{price:f2}");
         }
     }
 }
