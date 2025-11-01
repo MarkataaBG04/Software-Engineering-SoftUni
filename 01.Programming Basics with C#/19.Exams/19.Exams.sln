@@ -27,15 +27,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.High Jump", "11.High Jum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Basketball Tournament", "12.Basketball Tournament\12.Basketball Tournament.csproj", "{C4128AB4-86FE-4A38-98FD-C7A083811962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Oscars ceremony", "13.Oscars ceremony\13.Oscars ceremony.csproj", "{91650568-7832-4A16-98F3-229CC4DA75DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Oscars ceremony", "13.Oscars ceremony\13.Oscars ceremony.csproj", "{91650568-7832-4A16-98F3-229CC4DA75DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Oscars week in cinema", "14.Oscars week in cinema\14.Oscars week in cinema.csproj", "{976FA107-A138-47C1-BAD4-2E69B302738E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.Oscars week in cinema", "14.Oscars week in cinema\14.Oscars week in cinema.csproj", "{976FA107-A138-47C1-BAD4-2E69B302738E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Cinema Voucher", "15.Cinema Voucher\15.Cinema Voucher.csproj", "{B2F1D16F-0177-453A-B570-CDB284486F9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.Cinema Voucher", "15.Cinema Voucher\15.Cinema Voucher.csproj", "{B2F1D16F-0177-453A-B570-CDB284486F9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Movie Ratings", "16.Movie Ratings\16.Movie Ratings.csproj", "{31118A5C-54F5-4F0B-86FA-BF3E2A7A0FC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.Movie Ratings", "16.Movie Ratings\16.Movie Ratings.csproj", "{31118A5C-54F5-4F0B-86FA-BF3E2A7A0FC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.Cinema Tickets", "17.Cinema Tickets\17.Cinema Tickets.csproj", "{9316D429-00AE-4263-BEA1-AC16802EB391}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.Cinema Tickets", "17.Cinema Tickets\17.Cinema Tickets.csproj", "{9316D429-00AE-4263-BEA1-AC16802EB391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Fruit Market", "18.Fruit Market\18.Fruit Market.csproj", "{DEC2961D-E53F-4763-B92F-FB91D0C5776D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Safari", "19.Safari\19.Safari.csproj", "{A0EAAA4B-F617-4984-BE1B-D9AF2D29DD06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Mobile Operator", "20.Mobile Operator\20.Mobile Operator.csproj", "{8A191073-65E7-41EC-A3D2-89BBF71E6105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.Tourist Shop", "21.Tourist Shop\21.Tourist Shop.csproj", "{DF686E54-0C6E-4B32-8203-127C999F1A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Vet Parking", "22.Vet Parking\22.Vet Parking.csproj", "{4133C24F-9EC7-45E3-AB8B-0071C920A376}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +121,26 @@ Global
 		{9316D429-00AE-4263-BEA1-AC16802EB391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9316D429-00AE-4263-BEA1-AC16802EB391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9316D429-00AE-4263-BEA1-AC16802EB391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC2961D-E53F-4763-B92F-FB91D0C5776D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC2961D-E53F-4763-B92F-FB91D0C5776D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC2961D-E53F-4763-B92F-FB91D0C5776D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC2961D-E53F-4763-B92F-FB91D0C5776D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EAAA4B-F617-4984-BE1B-D9AF2D29DD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EAAA4B-F617-4984-BE1B-D9AF2D29DD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EAAA4B-F617-4984-BE1B-D9AF2D29DD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EAAA4B-F617-4984-BE1B-D9AF2D29DD06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A191073-65E7-41EC-A3D2-89BBF71E6105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A191073-65E7-41EC-A3D2-89BBF71E6105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A191073-65E7-41EC-A3D2-89BBF71E6105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A191073-65E7-41EC-A3D2-89BBF71E6105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF686E54-0C6E-4B32-8203-127C999F1A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF686E54-0C6E-4B32-8203-127C999F1A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF686E54-0C6E-4B32-8203-127C999F1A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF686E54-0C6E-4B32-8203-127C999F1A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4133C24F-9EC7-45E3-AB8B-0071C920A376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4133C24F-9EC7-45E3-AB8B-0071C920A376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4133C24F-9EC7-45E3-AB8B-0071C920A376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4133C24F-9EC7-45E3-AB8B-0071C920A376}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
