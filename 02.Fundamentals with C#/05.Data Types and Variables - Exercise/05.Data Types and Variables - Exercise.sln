@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Integer Operations", "01.Integer Operations\01.Integer Operations.csproj", "{38002DB0-1E91-48C0-85F0-F1732649A8B4}"
 EndProject
@@ -18,6 +18,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Water Overflow", "07.Water Overflow\07.Water Overflow.csproj", "{A24FF62D-60B4-4A7A-A1EE-96C957BC27EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Beer Kegs", "08.Beer Kegs\08.Beer Kegs.csproj", "{541FB04C-83F0-427C-A01F-5EE3128E07C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Spice Must Flow", "09.Spice Must Flow\09.Spice Must Flow.csproj", "{0303A167-158A-44C9-AC99-722CE6C70ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Snowballs", "11.Snowballs\11.Snowballs.csproj", "{D1E59FA9-BE0D-413B-BD1B-FD1F934C9615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Pokemon", "10. Pokemon\10. Pokemon.csproj", "{2F5D8ACF-BAF6-4016-9F25-179C35AFB5CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{541FB04C-83F0-427C-A01F-5EE3128E07C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{541FB04C-83F0-427C-A01F-5EE3128E07C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{541FB04C-83F0-427C-A01F-5EE3128E07C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0303A167-158A-44C9-AC99-722CE6C70ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0303A167-158A-44C9-AC99-722CE6C70ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0303A167-158A-44C9-AC99-722CE6C70ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0303A167-158A-44C9-AC99-722CE6C70ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E59FA9-BE0D-413B-BD1B-FD1F934C9615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E59FA9-BE0D-413B-BD1B-FD1F934C9615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E59FA9-BE0D-413B-BD1B-FD1F934C9615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E59FA9-BE0D-413B-BD1B-FD1F934C9615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5D8ACF-BAF6-4016-9F25-179C35AFB5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5D8ACF-BAF6-4016-9F25-179C35AFB5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5D8ACF-BAF6-4016-9F25-179C35AFB5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5D8ACF-BAF6-4016-9F25-179C35AFB5CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
